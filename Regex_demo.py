@@ -53,7 +53,10 @@ print(correct_MAC_list)
 
 You can use this regex. It checks that the start mark ^ is not followed by abc or def until the end $.
 
-^(?!(abc|def)$).*
+^(?!(abc|def)$).*  - use to detect mac addresses that do not follow pattern
+
+https://www.browserling.com/tools/text-from-regex
+a very usefull website. It generates strings base on regex ( very helpful for testing)
 
 
 '''
