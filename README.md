@@ -7,8 +7,8 @@ Mac address validator
 1) open a text file generated in excel
 2) trim text / data
 3) store text in a list - each word has separate index
-4) follow word pattern (entries repeat as they are stored in columns)
-5) store key terms in a separate list - key terms are words that we are looking for ( mac address, usr name , password, email etc. )
+4) follow pattern (entries repeat as they are stored in columns i.e. every 4th entry  = usr name )
+5) store key terms in a separate list - 'key terms' are words that we are looking for ( mac address, usr name , password, email etc. )
 6) compare terms with regex pattern // validate input
 
 #11/07/2019
