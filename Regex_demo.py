@@ -7,11 +7,6 @@ tmp = ''
 list_tmp = []
 
 
-''' 
-open a file with entries
-store them into list_tmp
-'''
-
 
 # =-=--=-=-=-=--=-=-=-=--=-=-=-=--=- read data from a file =-=--=-=-=-=--=-=-=-=--=-=-=-=--=-
 with open("test.txt", 'r') as f:
