@@ -12,4 +12,4 @@ Mac address validator
 6) compare terms with regex pattern // validate input
 
 #11/07/2019
-# I was playing with it between classes. U can base sth yours on it, or contribute to this one
+# I was playing with it between classes. We can develop sth your base on it, or contribute to this one !
